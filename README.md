@@ -14,11 +14,10 @@ Dependencies: Run npm install
 -  "redux-mock-store": "^1.5.3",
 -  "redux-promise": "^0.6.0"
 
-Run npm start to run locally
+To run locally: npm start
 =======
 
-Run npm test to run test files
-
+To run test files: npm test
 =======
 
 Project structure:
